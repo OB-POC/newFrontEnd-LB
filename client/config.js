@@ -18,5 +18,5 @@ module.exports = env == "PRO" ? {
     savingsUrl: 'http://localhost:3005/optimizeFundsService',
     manageSIUrl: 'http://localhost:3006/manageSIService',
     poolingUrl: 'http://localhost:3007/poolingService',
-    portingUrl: 'http://localhost:3008/portingService'
+    portingUrl: 'http://localhost:4008/portingService'
 };
